@@ -4,6 +4,7 @@
 #
 
 import sys
+import setuptools
 
 from copy import deepcopy
 import os
